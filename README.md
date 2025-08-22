@@ -17,6 +17,9 @@ Feel free to fork this project, raise issues, or suggest improvements.
 
 Inspiration from the ongoing debate: “Who is the GOAT?”
 
+Available in Tableau Public:
+https://public.tableau.com/app/profile/mahboob.ali6639/viz/RonaldovsMessianalysisdashboard/RonaldoVSMessi?publish=yes
+
 
 Regards
 Mahboob Ali
